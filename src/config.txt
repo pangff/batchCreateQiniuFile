@@ -1,0 +1,15 @@
+{
+   "src_dir"            :   "/Users/pangff/IdeaProjects/test/upload",
+   "bucket"             :   "china-net",
+   "up_host"            :   "http://upload-z1.qiniu.com",
+   "ignore_dir"         :   false,
+   "overwrite"          :   false,
+   "check_exists"       :   false,
+   "check_hash"         :   false,
+   "check_size"         :   false,
+   "rescan_local"       :   true,
+   "log_file"           :   "upload.log",
+   "log_level"          :   "info",
+   "log_rotate"         :   1,
+   "log_stdout"         :   false
+}
